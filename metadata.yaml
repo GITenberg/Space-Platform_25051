@@ -1,0 +1,35 @@
+_repo: Space-Platform_25051
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, Will
+    - Jenkins, William Fitzgerald
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+description: Long before extended space travel became a reality, prolific science
+  fiction author Murray Leinster created a richly detailed scenario in which a project
+  that bears a striking resemblance to the International Space Station is being planned
+  and executed. However, several nefarious factions want the planned expedition to
+  fail. Can unlikely hero Joe Kenmore salvage the project?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25051'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction, American'
+title: Space Platform
+url: http://www.gutenberg.org/ebooks/25051
